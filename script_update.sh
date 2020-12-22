@@ -1,5 +1,4 @@
 #!/bin/bash
-sudo apt update        # Fetches the list of available updates
 
 #colors used
 RED='\033[1;31m'
